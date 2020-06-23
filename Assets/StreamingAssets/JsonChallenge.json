@@ -1,13 +1,13 @@
 {
-    "Title": "Team Members",
-    "ColumnHeaders": 
+    "Title": "Team Members", //primera parte del json
+    "ColumnHeaders": //segunda parte del json
     [
         "ID",
         "Name",
         "Role",
         "Nickname"
     ],
-    "Data": 
+    "Data":  // tercera parte de json
     [
         {
             "ID": "001",
@@ -28,11 +28,11 @@
             "Nickname": "BeefyPaul"
         },
         {
-            "ID": "056",
-            "Name": "Sally Sue",
-            "Role": "Artist",
-            "Nickname": "Sue5555"
-        }  
+          "ID": "056",
+          "Name": "Sally Sue",
+          "Role": "Artist",
+          "Nickname": "Sue5555"
+        } 
     ]
 }
 
