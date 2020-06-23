@@ -516,11 +516,18 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Giant Monkey Robot\n\n- Actualmente se pueden editar las filas pero no
-    las columnas, es decir, agregar informaci\xF3n en la secci\xF3n de DATA en el
-    Json, pero no en la secci\xF3n de COLUMNHEADERS por la manera en la que lo desarrolle.\n\n-
-    Si se cambia el nombre de los atributos en ColumnHeaders tambi\xE9n se ver\xE1
-    reflejado en la UI"
+  m_Text: 'Giant Monkey Robot
+
+
+    - Currently you can edit the rows but not the
+    columns, i mean, add information in the DATA section in the Json, but not in
+    the COLUMNHEADERS section because of the way it is developed.
+
+    
+
+    -
+    Changing the name of the attributes in ColumnHeaders will also be reflected in
+    the UI'
 --- !u!222 &898691844
 CanvasRenderer:
   m_ObjectHideFlags: 0
