@@ -5,7 +5,7 @@
         "ID",
         "Name",
         "Role",
-        "Nickname"
+      "Nickname"
     ],
     "Data":  // tercera parte de json
     [
@@ -32,7 +32,7 @@
           "Name": "Sally Sue",
           "Role": "Artist",
           "Nickname": "Sue5555"
-        } 
+        }
     ]
 }
 
